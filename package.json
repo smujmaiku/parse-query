@@ -1,5 +1,5 @@
 {
-  "name": "parse_query",
+  "name": "parse-query",
   "version": "0.1.0",
   "description": "Parse Query",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smujmaiku/parse_query.git"
+    "url": "git+https://github.com/smujmaiku/parse-query.git"
   },
   "author": "Michael Szmadzinski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smujmaiku/parse_query/issues"
+    "url": "https://github.com/smujmaiku/parse-query/issues"
   },
-  "homepage": "https://github.com/smujmaiku/parse_query#readme",
+  "homepage": "https://github.com/smujmaiku/parse-query#readme",
   "devDependencies": {
     "coveralls": "^3.0.2",
     "eslint": "^5.13.0",

@@ -1,3 +1,9 @@
+/*!
+ * Parse Query <https://github.com/smujmaiku/parse-query>
+ * Copyright(c) 2018-2019 Michael Szmadzinski
+ * MIT Licensed
+ */
+
 var parseQuery = (query) => {
 	if (!query) return {};
 	if (query.startsWith('?')) return parseQuery(query.slice(1));

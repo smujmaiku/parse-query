@@ -7,12 +7,12 @@ A simple query parser
 
 ## Installation
 
-`npm i smujmaiku/parse_query`
+`npm i smujmaiku/parse-query`
 
 ## Methods
 
 ```js
-const parseQuery = require('parse_query');
+const parseQuery = require('parse-query');
 
 parseQuery('?a=1&b');
 // { a: '1', b: true }
@@ -22,8 +22,8 @@ parseQuery('?a=1&b');
 
 Copyright (c) 2018-2019, Michael Szmadzinski. (MIT License)
 
-[travis-image]: https://travis-ci.org/smujmaiku/parse_query.svg?branch=master
-[travis-url]: https://travis-ci.org/smujmaiku/parse_query
-[codecov-image]: https://coveralls.io/repos/github/smujmaiku/parse_query/badge.svg
-[codecov-url]: https://coveralls.io/github/smujmaiku/parse_query
+[travis-image]: https://travis-ci.org/smujmaiku/parse-query.svg?branch=master
+[travis-url]: https://travis-ci.org/smujmaiku/parse-query
+[codecov-image]: https://coveralls.io/repos/github/smujmaiku/parse-query/badge.svg
+[codecov-url]: https://coveralls.io/github/smujmaiku/parse-query
 
